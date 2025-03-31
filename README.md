@@ -48,7 +48,8 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 2. Navegue até a pasta do projeto:
 
-   ```cd travel-planner
+   ```
+   cd travel-planner
    ```
 
 4. Abra o arquivo `index.html` em seu navegador.
