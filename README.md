@@ -29,19 +29,21 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 📷 Captura de Tela
 
 💻 Versão Web
+
 ![Versão Web](./screenshot_web.png)
 
 📱 Versão Mobile
+
 ![Versão Mobile](./screenshot_mobile.png)
 
 
 🎯 Como Executar o Projeto
 
-1- Clone o repositório
+1- Clone o repositório:
 
 git clone https://github.com/seu-usuario/travel-planner.git
 
-2- Navegue até a pasta do projeto
+2- Navegue até a pasta do projeto:
 
 cd travel-planner
 
