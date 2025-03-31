@@ -7,22 +7,20 @@ O Travel Planner é uma aplicação web desenvolvida para ajudar os usuários a 
 🚀 Funcionalidades
 
 Adicionar uma atividade com:
-- Localização
-- Nome do evento
-- Data
-- Horário
-  
-Visualização das atividades salvas
+  - Localização
+  - Nome do evento
+  - Data
+  - Horário
+- Visualização das atividades salvas
+- Interface responsiva para dispositivos móveis
 
-Interface responsiva para dispositivos móveis
-
-Tecnologias Utilizadas
+⚙️ Tecnologias Utilizadas
 
 - HTML
 - CSS (incluindo estilos responsivos)
 - JavaScript (para interatividade e manipulação do DOM)
 
-Responsividade
+🖥️➡️📱 Responsividade
 
 A interface do projeto foi projetada para ser totalmente responsiva, garantindo uma boa experiência tanto em desktops quanto em dispositivos móveis.
 
@@ -37,8 +35,12 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 🎯 Como Executar o Projeto
 
-1- Clone o repositório: git clone https://github.com/seu-usuario/travel-planner.git
-2- Navegue até a pasta do projeto: cd travel-planner
+1- Clone o repositório
+git clone https://github.com/seu-usuario/travel-planner.git
+
+2- Navegue até a pasta do projeto
+cd travel-planner
+
 3- Abra o arquivo index.html em seu navegador
                     
 
