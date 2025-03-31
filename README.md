@@ -34,7 +34,7 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 📱 Versão Mobile
 
-![Versão Mobile](./screenshot_mobile.png)
+Travel_planner/img/screenshot_mobile.png
 
 
 🎯 Como Executar o Projeto
