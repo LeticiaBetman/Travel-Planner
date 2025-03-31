@@ -17,11 +17,13 @@ Visualização das atividades salvas
 Interface responsiva para dispositivos móveis
 
 Tecnologias Utilizadas
+
 - HTML
 - CSS (incluindo estilos responsivos)
 - JavaScript (para interatividade e manipulação do DOM)
 
 Responsividade
+
 A interface do projeto foi projetada para ser totalmente responsiva, garantindo uma boa experiência tanto em desktops quanto em dispositivos móveis.
 
 📷 Captura de Tela
