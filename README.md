@@ -51,8 +51,6 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
    ```
    cd travel-planner
-   
-   ```
 
 4. Abra o arquivo `index.html` em seu navegador.
 
