@@ -1,6 +1,7 @@
 # Travel Planner
 
 📌 **Sobre o Projeto**  
+
 O **Travel Planner** é uma aplicação web desenvolvida para ajudar os usuários a planejarem suas atividades de viagem de forma organizada e intuitiva. O projeto permite que o usuário adicione eventos com localização, data e horário, exibindo-os de forma clara em uma lista de atividades futuras.
 
 ---
@@ -51,7 +52,7 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
    ```
    cd travel-planner
-
+   ```
 4. Abra o arquivo `index.html` em seu navegador.
 
 
