@@ -34,7 +34,6 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 💻 **Versão Web**  
 ![Versão Web](Travel_planner/img/screenshot_web.png)
-
 📱 **Versão Mobile**  
 ![Versão Mobile](Travel_planner/img/screenshot_mobile.png)
 
@@ -49,7 +48,7 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 2. Navegue até a pasta do projeto:
 
-   cd travel-planner
+cd travel-planner
 
 3- Abra o arquivo index.html em seu navegador.
 
