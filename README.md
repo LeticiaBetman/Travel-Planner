@@ -30,7 +30,7 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 💻 Versão Web
 
-![Versão Web](./screenshot_web.png)
+Travel_planner/img/screenshot_web.png
 
 📱 Versão Mobile
 
