@@ -33,10 +33,12 @@ A interface do projeto foi projetada para ser totalmente responsiva, garantindo 
 
 **Captura de Tela**
 
-💻 **Versão Web**  
+💻 **Versão Web**
+
 ![Versão Web](Travel_planner/img/screenshot_web.png)
 
-📱 **Versão Mobile**  
+📱 **Versão Mobile**
+
 ![Versão Mobile](Travel_planner/img/screenshot_mobile.png)
 
 ---
